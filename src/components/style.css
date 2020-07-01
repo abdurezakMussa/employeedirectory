@@ -50,7 +50,13 @@ header {
    
    
 }
+/* header {
+    padding: 10px;     
+    background-color: #cfd6e6
 
+    
+ 
+} */
 
 img {
     border-radius: 50%;  
@@ -115,3 +121,6 @@ font-weight: lighter;
       font-weight: bold;
     
   }
+
+
+  

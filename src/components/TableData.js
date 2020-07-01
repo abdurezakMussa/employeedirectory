@@ -1,8 +1,9 @@
 import React from "react";
 import Moment from 'react-moment';
+
 import "./style.css";
 
-function dataTable(props) {
+function TableData(props) {
       return (
         <table className="tableEmployee ">
             <thead>
@@ -37,4 +38,4 @@ function dataTable(props) {
 
 }
 
-export default dataTable
+export default TableData

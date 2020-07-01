@@ -1,10 +1,12 @@
-import React, { Component } from 'react';
-import Main from "./components/Main"
+import React from 'react';
+import Container from "./components/Container"
+
 
 function App() {
   return (
-    <Main/>
-  );
+    <Container />
+
+  )
 }
 
 export default App;
